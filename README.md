@@ -2,8 +2,6 @@
 Creating a Spotify Clone  with help of  Vite, Vue 3, Tailwind CSS, and Pinia
 
 APP SETUP:
-REFERNCE LINK :
-git clone https://github.com/John-Weeks-Dev/spotify-clone.git
 
 npm i
 
